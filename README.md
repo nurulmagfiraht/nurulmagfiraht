@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nurulmagfiraht
+- 👋 Hi, I’m Nurul
 - 👀 I’m interested in programming
 - 🥅 2022 Goals: Contribute more to Open Source projects
 <!---
