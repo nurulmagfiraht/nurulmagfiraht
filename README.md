@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nurul
 - 👀 I’m interested in programming
+- 🌱 I’m currently learning web development, android development, UI/UX design, and more about IT
 - 🥅 2023 Goals: Contribute more to Open Source projects
 <!---
 nurulmagfiraht/nurulmagfiraht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
